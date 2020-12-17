@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\st\source\repos\oop2\TV.set\main.cpp(24,33): error C2660: TVSet::decreaseChannelNum: функция не принимает 1 аргументов
+C:\Users\st\source\repos\oop2\TV.set\TVset.h(17,7): message : см. объявление "TVSet::decreaseChannelNum"
